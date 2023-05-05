@@ -1,9 +1,14 @@
 <h1 align="center">Hi 👋, I'm Paula Villegas</h1>
-<h3 align="center">I'm an enthusiastic Informatic Engineering student with a passion for cybersecurity from Argentina.</h3>
+<h3 align="center">I'm an enthusiastic Informatic Engineering student with a passion for cybersecurity from Argentina.
+Through my studies, I have gained experience with a variety of programming languages, including Java, C#, HTML, JS, CSS, and SQL.
+
+When I'm not coding, you can find me spending time with my beloved cats, exploring new technology trends, or researching the latest advancements in cybersecurity.
+
+As a lifelong learner, I'm always looking to improve my skills and knowledge in the field of programming. I believe that with dedication and hard work, anything is possible. Thank you for visiting my profile, and feel free to reach out if you have any questions or if you're interested in collaborating on a project together.
+ In addition to my interest in programming and cybersecurity, I also have a passion for learning languages. Currently, I am studying English, Japanese, and Portuguese in my free time as a hobby. I find that learning new languages not only helps me to communicate with people from different backgrounds but also provides me with a new perspective on the world.</h3>
 
 - 📫 How to reach me **angelschafer03@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
